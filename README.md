@@ -16,9 +16,6 @@ Welcome to the My JavaScript Programs repository! This collection showcases a va
 2. [Advantages of JavaScript](#advantages-of-javascript)
 3. [Applications of JavaScript](#applications-of-javascript)
 4. [Getting Started](#getting-started)
-5. [Programs Overview](#programs-overview)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction to JavaScript
 
