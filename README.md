@@ -1,6 +1,8 @@
 # JavaScript Programs
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+
 [![Forks](https://img.shields.io/github/forks/Pradeep-1496/JavaScript?style=social)](https://github.com/Pradeep-1496/JavaScript/fork)
 [![Issues](https://img.shields.io/github/issues/Pradeep-1496/JavaScript)](https://github.com/Pradeep-1496/JavaScript/issues)
 [![Stars](https://img.shields.io/github/stars/Pradeep-1496/JavaScript?style=social)](https://github.com/Pradeep-1496/JavaScript/stargazers)
