@@ -37,5 +37,3 @@ let maxArr = arr.reduce((prev, cur) => {
 })
 
 console.log(`Maximum number in array is ${maxArr}`);
-
-    
